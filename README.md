@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MACHINE LEARNING in DATA SCIENCE
 - 💞️ I’m looking to collaborate on a data science project
 - 📫 How to reach me: hrithikgogna2000@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Anime lover
 
 <!---
 HrithikGogna/HrithikGogna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
